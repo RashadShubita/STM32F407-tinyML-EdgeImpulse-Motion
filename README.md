@@ -28,8 +28,8 @@ Follow this step to run on your hardware:
      
 Some Screenshot of result during the Inference Phase:
 
-<img src="images/Capture5.png">
+<img src="images/Capture5.PNG">
 
-<img src="images/Capture6.png">
+<img src="images/Capture6.PNG">
 
-<img src="images/Capture7.png">
+<img src="images/Capture7.PNG">
