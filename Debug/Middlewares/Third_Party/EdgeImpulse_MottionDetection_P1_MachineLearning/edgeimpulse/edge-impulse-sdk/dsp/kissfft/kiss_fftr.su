@@ -1,0 +1,3 @@
+kiss_fftr.cpp:21:15:kiss_fftr_state* kiss_fftr_alloc(int, int, void*, size_t*, size_t*)	80	static
+kiss_fftr.cpp:72:6:void kiss_fftr(kiss_fftr_cfg, const float*, kiss_fft_cpx*)	80	static
+kiss_fftr.cpp:128:6:void kiss_fftri(kiss_fftr_cfg, const kiss_fft_cpx*, float*)	72	static

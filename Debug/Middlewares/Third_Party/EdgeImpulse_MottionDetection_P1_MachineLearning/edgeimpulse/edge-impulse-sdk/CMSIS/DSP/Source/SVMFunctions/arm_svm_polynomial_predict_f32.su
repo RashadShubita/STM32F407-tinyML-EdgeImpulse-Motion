@@ -1,0 +1,2 @@
+arm_math.h:1285:27:arm_exponent_f32	24	static
+arm_svm_polynomial_predict_f32.c:460:6:arm_svm_polynomial_predict_f32	56	static

@@ -1,0 +1,12 @@
+kiss_fft.cpp:15:13:void kf_bfly2(kiss_fft_cpx*, size_t, kiss_fft_cfg, int)	40	static
+kiss_fft.cpp:38:13:void kf_bfly4(kiss_fft_cpx*, size_t, kiss_fft_cfg, size_t)	96	static
+kiss_fft.cpp:86:13:void kf_bfly3(kiss_fft_cpx*, size_t, kiss_fft_cfg, size_t)	96	static
+kiss_fft.cpp:130:13:void kf_bfly5(kiss_fft_cpx*, size_t, kiss_fft_cfg, int)	176	static
+kiss_fft.cpp:192:13:void kf_bfly_generic(kiss_fft_cpx*, size_t, kiss_fft_cfg, int, int)	64	static
+kiss_fft.cpp:232:6:void kf_work(kiss_fft_cpx*, const kiss_fft_cpx*, size_t, int, int*, kiss_fft_cfg)	48	static
+kiss_fft.cpp:303:6:void kf_factor(int, int*)	32	static
+kiss_fft.cpp:333:14:kiss_fft_state* kiss_fft_alloc(int, int, void*, size_t*, size_t*)	80	static
+kiss_fft.cpp:376:6:void kiss_fft_stride(kiss_fft_cfg, const kiss_fft_cpx*, kiss_fft_cpx*, int)	40	static
+kiss_fft.cpp:390:6:void kiss_fft(kiss_fft_cfg, const kiss_fft_cpx*, kiss_fft_cpx*)	24	static
+kiss_fft.cpp:396:6:void kiss_fft_cleanup()	4	static
+kiss_fft.cpp:401:5:int kiss_fft_next_fast_size(int)	24	static
