@@ -26,3 +26,10 @@ Follow this step to run on your hardware:
    - C- Go to main.cpp in the "Private macro" section, choose Inference_Phase and flash the code in your STM32
    - B- Make motion then see the result in the "result" variable
      
+Some Screenshot of result during the Inference Phase:
+
+<img src="images/Capture5.png">
+
+<img src="images/Capture6.png">
+
+<img src="images/Capture7.png">
